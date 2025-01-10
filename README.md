@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on **52 Projects , 52 Weeks**
+- 🔭 I’m currently working on **52 Projects, 52 Weeks**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hknain&show_icons=true&locale=en&layout=compact" alt="hknain" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hknain&" alt="hknain" /></p>
