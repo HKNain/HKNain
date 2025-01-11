@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A truly passionate programmer from India</h3>
 
 - 🔭 I’m currently working on **52 Projects, 52 Weeks**
 
