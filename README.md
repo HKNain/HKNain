@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 
-- 🔭 I’m currently working on **24 Basic Projects**
+- 🔭 I’m currently working on **12 Basic Projects**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
