@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **any New Major Project**
+- 👯 I’m looking to collaborate on **any Major Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HKNain](https://github.com/HKNain)
 
