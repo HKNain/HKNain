@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A programmer from India</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=I+am+a+1st-year+CS+student;Exploring+the+world+of+Computer+Sc;Welcome+to+my+GitHub+profile!">
 
