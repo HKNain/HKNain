@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on **12 Basic Projects**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **any New Major Project**
@@ -24,4 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hknain&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="hknain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hknain&show_icons=true&theme=dark&locale=en" alt="hknain" /></p>
